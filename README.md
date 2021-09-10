@@ -1,4 +1,4 @@
-# **Stock-Analysis With Excel and VBA**
+# **Stock-Analysis With Excel VBA**
 
 ## Overview 
 
