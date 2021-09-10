@@ -8,7 +8,7 @@ The purpose of this project is to refactor and edit a pre existing code used in 
 
 ### Results 
 
-Chart headers, ticker arrays, input boxes, conditional formatting, and clear codes were copied from the original code before the refactoring code was created. 
+Certain codes such as chart headers, ticker arrays, input boxes, conditional formatting, and clear codes were copied from the original code and inputted onto the refactoring code. 
 
 Refactoring code can be found on [VBA_Challenge](https://github.com/just-yen/stock-analysis/blob/main/VBA_Challenge.xlsm) on Module 2. 
 
@@ -19,6 +19,7 @@ Below is a comparison of the original code vs refactoring code.
 
 ![Code Run Time - Original](https://github.com/just-yen/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.PNG) ![Code Run Time - Refactoring Code](https://github.com/just-yen/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG). 
 
+Refactoring code not only acheived the same output results but also significantly decreased the run time. 
 
 ## Summary 
 
