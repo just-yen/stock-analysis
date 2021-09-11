@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project is to refactor and edit a pre existing code used in Microsoft Excel VBA to determine what stocks are worth investing in 2017 and 2018. This was determined through comparing return and total daily volumes of the stocks. 
+The purpose of this project is refactoring and edit a pre existing code used in Microsoft Excel VBA to determine what stocks are worth investing in 2017 and 2018. This was determined through comparing return and total daily volumes of the stocks. 
 
 ### Results 
 
